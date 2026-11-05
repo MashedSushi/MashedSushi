@@ -1,5 +1,5 @@
 
-Learning Typescript since 2026.
+Learning Typescript since 2026.  
 I can't live without type annotations!
 
 Singleton in my every projects.
